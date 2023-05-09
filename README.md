@@ -1,6 +1,11 @@
 # Boggle
-Boggle Game &amp; Gui
+Boggle Game &amp; Gui, Fall 2019
 
-Copy files to a Java IDE, and run program with Boggle.Java
+Need dictionary.txt file, or any file of words named dictionary.txt <br>
 
-Need dictionary.txt file, or any file of words named dictionary.txt
+Provided Gui setup, implemented Board Mechanics, ComputerPlayer Mechanics, Dictionary loading<br>
+^ PA-02, PA-03 Functions
+
+
+
+
